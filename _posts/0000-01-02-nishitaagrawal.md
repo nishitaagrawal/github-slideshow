@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello this is Nishita Agrawal.
+Welcome to my first pull request
 Use the left arrow to go back!
